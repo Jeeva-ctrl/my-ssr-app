@@ -1,6 +1,9 @@
 Clone the repo
+
 Run command npm install
+
 Run command npm run dev
+
 Browse http://localhost:3006/
 
 
